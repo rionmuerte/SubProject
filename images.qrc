@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>Images/Add.bmp</file>
+        <file>Images/ArrowDown.bmp</file>
+        <file>Images/ArrowUp.bmp</file>
+        <file>Images/Remove.bmp</file>
+        <file>Images/SaveAll.bmp</file>
+        <file>Images/SaveInput.bmp</file>
+        <file>Images/SaveOutput.bmp</file>
+        <file>Images/OpenIconA.bmp</file>
+    </qresource>
+</RCC>
